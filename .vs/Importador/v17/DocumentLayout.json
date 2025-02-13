@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|c:\\users\\fede_\\onedrive\\escritorio\\importador\\importador\\importador\\formtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|solutionrelative:importador\\formtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\importador\\conexcionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|solutionrelative:importador\\conexcionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\importador\\importartransportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|solutionrelative:importador\\importartransportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\importador\\formtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7329383-8053-4F39-97B9-3FB0E1A22F6D}|Importador\\Importador.csproj|solutionrelative:importador\\formtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexcionBD.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\ConexcionBD.cs",
+              "RelativeDocumentMoniker": "Importador\\ConexcionBD.cs",
+              "ToolTip": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\ConexcionBD.cs",
+              "RelativeToolTip": "Importador\\ConexcionBD.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:31:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTransporte.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\FormTransporte.cs",
+              "RelativeDocumentMoniker": "Importador\\FormTransporte.cs",
+              "ToolTip": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\FormTransporte.cs",
+              "RelativeToolTip": "Importador\\FormTransporte.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:54:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportarTransportes.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\ImportarTransportes.cs",
+              "RelativeDocumentMoniker": "Importador\\ImportarTransportes.cs",
+              "ToolTip": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\ImportarTransportes.cs",
+              "RelativeToolTip": "Importador\\ImportarTransportes.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA/wBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:51:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTransporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\FormTransporte.cs",
+              "RelativeDocumentMoniker": "Importador\\FormTransporte.cs",
+              "ToolTip": "C:\\Users\\fede_\\OneDrive\\Escritorio\\Importador\\Importador\\Importador\\FormTransporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Importador\\FormTransporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:39:38.513Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
